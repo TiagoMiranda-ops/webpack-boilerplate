@@ -6,7 +6,7 @@ iv) HTML Webpack Plugin;<br>
 v) Webpack's live server.
 
 Instructions:<br>
-i) Fork this repo;<br>
+i) Fork this repo, or download its ZIP;<br>
 ii) Open the entire contents in VS Code by opening the boilerplate folder;<br>
 iii) Open a new terminal within VS Code, ensuring you're on the boilerplate folder;<br>
 iv) Then type in "<i>npm install</i>" to install all the project's dependencies;<br>
