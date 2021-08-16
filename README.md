@@ -1,4 +1,4 @@
-Ready-to-go Webpack boilerplate with the following:
+Ready-to-go Webpack boilerplate with the following:<br>
 i) CSS loader;
 ii) HTML loader;
 iii) Babel loader;
