@@ -3,7 +3,7 @@ i) CSS loader;
 ii) HTML loader;
 iii) Babel loader;
 iv) HTML Webpack Plugin;
-v) Webpack's live server.
+v) Webpack's live server. 
 
 Instructions:
 i) Fork this repo;
